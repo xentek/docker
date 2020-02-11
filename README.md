@@ -8,3 +8,7 @@ Docker Containers for fun and profit (Alpine Based)
 
 This container pre-installs common build tools and utilities, as well as install
 scripts for various language runtimes used by the other containers.
+
+## xentek/go
+
+This container installs go v1.13.x runtime.
