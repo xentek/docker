@@ -23,7 +23,7 @@ pull:
 
 # build the Docker container
 build:
-	docker build -t ${IMG} .
+	docker build --no-cache -t ${IMG} .
 
 # create the Docker container
 #
