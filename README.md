@@ -28,3 +28,10 @@ This container installs node v12.15.x runtime.
 This contianer installs python v3.8.x runtime.
 
     docker pull xentek/python:latest
+
+## xentek/ruby
+
+This contianer installs ruby v2.5.x runtime.
+
+    docker pull xentek/ruby:latest
+
