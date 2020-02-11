@@ -5,7 +5,6 @@ apk add --no-cache \
     python3-dev \
     gmp \
     yaml \
-    py-enum34 \
     py3-asn1 \
     py3-asn1crypto \
     py3-bcrypt \
