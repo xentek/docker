@@ -11,7 +11,7 @@ default:
 # release all tags
 all:
 	$(MAKE) release
-	$(MAKE) release TAG=1.13.4
+	$(MAKE) release TAG=1.13.8
 
 # pull the Docker container
 #
